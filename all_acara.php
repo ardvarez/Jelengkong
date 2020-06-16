@@ -118,7 +118,7 @@ h6,
     z-index: 997;
     transition: all 0.5s;
     padding: 20px 0;
-    background: #2d6760;
+    background: #2b4141;
 }
 
 #header.header-scrolled {
@@ -1056,7 +1056,7 @@ form.example::after {
         <div class="container">
 
             <div class="logo float-left">
-                <h1 class="text-light"><a href="#hero"><span>Jelengkong</span></a></h1>
+                <h1 class="text-light"><a href="#hero"><span>Jelekong</span></a></h1>
                 <!-- Uncomment below if you prefer to use an image logo -->
                 <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
             </div>

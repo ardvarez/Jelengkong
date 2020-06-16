@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   z-index: 997;
   transition: all 0.5s;
   padding: 20px 0;
-  background: #2d6760;
+  background: #1d2726;
 }
 
 #header.header-scrolled {

@@ -9,7 +9,7 @@ include "config/koneksi.php";
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Desa Jelengkong</title>
+    <title>Desa Jelekong</title>
     <meta content="" name="descriptison">
     <meta content="" name="keywords">
 
@@ -1023,7 +1023,7 @@ button {
         <div class="container">
 
             <div class="logo float-left">
-                <h1 class="text-light"><a href="#hero"><span>Jelengkong</span></a></h1>
+                <h1 class="text-light"><a href="#hero"><span>Jelekong</span></a></h1>
                 <!-- Uncomment below if you prefer to use an image logo -->
                 <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
             </div>
@@ -1044,7 +1044,7 @@ button {
     <section id="hero">
         <div class="hero-container">
             <h1 style="font-family:Glacial Indefference">SELAMAT DATANG</h1>
-            <h1 style="font-family:Cormorant Garamond">DESA LUKIS JELENGKONG</h1>
+            <h1 style="font-family:Cormorant Garamond">DESA LUKIS JELEKONG</h1>
         </div>
     </section><!-- #hero -->
 
